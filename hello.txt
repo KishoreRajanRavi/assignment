@@ -1,3 +1,4 @@
 "Hello Git!" 
 "Adding a new line!" 
 "This is a new feature line" 
+"Main branch: conflicting line" 
