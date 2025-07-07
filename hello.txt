@@ -1,4 +1,8 @@
 "Hello Git!" 
 "Adding a new line!" 
 "This is a new feature line" 
+<<<<<<< HEAD
 "Main branch: conflicting line" 
+=======
+"Feature branch: Added a new feature line" 
+>>>>>>> cf28ac5 (Feature Branch: Updated Hello.txt)
